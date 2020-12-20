@@ -11,3 +11,5 @@ body
 background-color: #afeeee;
 
 }
+.list-inline{display:block;}
+.list-inline li{display:inline-block;}
