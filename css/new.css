@@ -13,6 +13,6 @@ background-color: #afeeee;
 }
 .list-inline{display:block;}
 .list-inline li{display:inline-block;}
-.list-inline li:after{content:'    '; margin:10px 20px;}
+.list-inline li:after{content:'    '; margin:20px 20px;}
 
-.subheading{margin:10px 10px;}
+.subheading{margin:10px 0;}
