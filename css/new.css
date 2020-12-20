@@ -13,4 +13,4 @@ background-color: #afeeee;
 }
 .list-inline{display:block;}
 .list-inline li{display:inline-block;}
-.list-inline li:after{content:'     '; margin:0 10px;}
+.list-inline li:after{content:'     '; margin:2 10px;}
