@@ -15,4 +15,4 @@ background-color: #afeeee;
 .list-inline li{display:inline-block;}
 .list-inline li:after{content:'    '; margin:10px 20px;}
 
-.subheading{margin:10px 0;}
+.subheading{margin:10px 10px;}
